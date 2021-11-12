@@ -38,7 +38,6 @@ public class TypeModifier implements NmsTypeModifier {
 
   @Override
   public TagCompound getTagCompound(Block block) {
-    TileEntityJukeBox
     return null;
   }
 
